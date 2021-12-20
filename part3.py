@@ -19,4 +19,8 @@ Enter the height: 3
 """
 
 #write your code here 
-n1 = int(input("Enter a number: "))
+base = int(input("Enter a number: "))
+height = int(input("Enter another number: "))
+
+for i in range (1, height + 1):
+  print("*" * base)
