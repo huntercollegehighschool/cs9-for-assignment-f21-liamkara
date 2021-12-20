@@ -19,3 +19,4 @@ Enter the height: 3
 """
 
 #write your code here 
+n1 = int(input("Enter a number: "))
